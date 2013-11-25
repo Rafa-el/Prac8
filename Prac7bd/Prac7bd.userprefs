@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Prac7bd/Funciones.cs">
+    <Files>
+      <File FileName="Prac7bd/Main.cs" Line="17" Column="1" />
+      <File FileName="Prac7bd/Funciones.cs" Line="58" Column="4" />
+      <File FileName="Prac7bd/Conexion.cs" Line="14" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
